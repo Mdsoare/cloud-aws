@@ -12,7 +12,7 @@
 <h3> <font face="Helvetica"> 📖 Alguns dos assuntos abordados 📖</font></h3>
 
 <ul>
-	<li>Introdução: Git / GitHub</li> <!--
+	<li>Conhecendo o Linux</li> <!--
 	<li>Fundamentos: Programação / Java </li>
 	<li>Estrutura de Repetição e Arrays em Java</li>
 	<li>Criação de Métodos em Java</li>
