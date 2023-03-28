@@ -12,11 +12,12 @@
 <h3> <font face="Helvetica"> 📖 Alguns dos assuntos abordados 📖</font></h3>
 
 <ul>
-	<li>Conhecendo o Linux</li> <!--
+	<li>Conhecendo o Linux</li> 
+	<li>Desafio 1 - Provendo Infraestrutura como código</li>
+	<!--
 	<li>Fundamentos: Programação / Java </li>
 	<li>Estrutura de Repetição e Arrays em Java</li>
-	<li>Criação de Métodos em Java</li>
-	<li>Desafio 1</li>
+	<li>Criação de Métodos em Java</li>	
 	<li>Introdução a POO</li>
 	<li>Collections</li>
 	<li>Debugging</li>
