@@ -14,19 +14,7 @@
 <ul>
 	<li>Conhecendo o Linux</li> 
 	<li>Desafio 1 - Provendo Infraestrutura como código</li>
-	<!--
-	<li>Fundamentos: Programação / Java </li>
-	<li>Estrutura de Repetição e Arrays em Java</li>
-	<li>Criação de Métodos em Java</li>	
-	<li>Introdução a POO</li>
-	<li>Collections</li>
-	<li>Debugging</li>
-	<li>Tratamento de Exceções</li>
-	<li>Desafio 2</li>
-	<li>Protocolos de Comunicação de Internet</li>
-	<li>Introdução ao Apache Maven</li>
-	<li>Spring Boot</li>
-	<li>Desafio 3</li>-->
+	<li>Desafio 2 - Provendo um Web Server Apache</li>
 </ul>
 
 <p> </p>
