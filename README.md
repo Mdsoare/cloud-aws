@@ -15,6 +15,7 @@
 	<li>Conhecendo o Linux</li> 
 	<li>Desafio 1 - Provendo Infraestrutura como código</li>
 	<li>Desafio 2 - Provendo um Web Server Apache</li>
+	<li>Primeiros passos com AWS</li>
 </ul>
 
 <p> </p>
