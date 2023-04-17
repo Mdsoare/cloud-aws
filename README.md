@@ -16,6 +16,8 @@
 	<li>Desafio 1 - Provendo Infraestrutura como código</li>
 	<li>Desafio 2 - Provendo um Web Server Apache</li>
 	<li>Primeiros passos com AWS</li>
+	<li>Introdução à Amazon Web Services (AWS)</li>
+	<li>Introdução ao Conceito de Cloud</li>
 </ul>
 
 <p> </p>
