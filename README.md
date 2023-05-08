@@ -12,12 +12,10 @@
 <h3> <font face="Helvetica"> 📖 Alguns dos assuntos abordados 📖</font></h3>
 
 <ul>
-	<li>Conhecendo o Linux</li> 
-	<li>Desafio 1 - Provendo Infraestrutura como código</li>
-	<li>Desafio 2 - Provendo um Web Server Apache</li>
-	<li>Primeiros passos com AWS</li>
-	<li>Introdução à Amazon Web Services (AWS)</li>
-	<li>Introdução ao Conceito de Cloud</li>
+	<li>Conhecendo o Sistema Operacional Linux</li> 
+	<li>AWS Foundations</li>
+	<li>Segurança, Monitoramento e Suporte na AWS</li>
+	<li>Preparatório para Certificação AWS Cloud Practitioner</li>
 </ul>
 
 <p> </p>
