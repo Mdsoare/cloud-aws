@@ -7,7 +7,7 @@
 <h3 align="center"><font face="Helvetica"> Resumo: </font></h3>
 -->
 
-<p align="center"><font face="Helvetica"> Treinamento iniciado em 27 de março de 2023. </font></p>
+<p align="center"><font face="Helvetica"> Treinamento realizado entre 27 de março a 8 de maio de 2023. </font></p>
 <p> </p>
 <h3> <font face="Helvetica"> 📖 Alguns dos assuntos abordados 📖</font></h3>
 
