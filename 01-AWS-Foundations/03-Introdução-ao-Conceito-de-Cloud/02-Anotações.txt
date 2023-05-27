@@ -1,0 +1,44 @@
+WELL ARCHITECTED FRAMEWORK
+
+PILARES AWS:
+
+* Excelência Operacional --> Se concentra na execução e monitoramento de sistemas, além da melhoria contínua de processos e procedimentos
+* Segurança --> Se concentra na proteção de informações e sistemas. Envolve confidencialidade, integridade, controle de acesso(permissão) e monitoração de insidentes de SI 
+* Confiabilidade --> Resiliência e tolerancia a falhas, recuperação de desastres
+* Eficiência e Performance --> Alocação estruturada e simplificada de recursos de TI e computação  
+* Otimização de custos --> Evitar custos desnecessários
+* Sustentabilidade --> minimizar os impactos ambientais na execução de workloads em nuvem
+
+////////////////////////////////////////////////////////////////////////////////////////////
+ARQUITETURA PARA CLOUD
+
+Resiliência
+Escalabilidade
+Performance (Latência)
+
+
+EC2 --> Auto Scaling (Groups)
+
+AWS FIS (Fault Injection Simulator) --> Benchmark AWS...
+
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+INFRA AS A CODE (IaaC) - Infraestrutura como código
+TERRAFORM (Diversos players)
+CLOUDFORMATION (Exclusivo AWS)
+
+///////////////////////////////////////////////////////////////////////////////////////////
+Introdução ao deployment em cloud e esteiras de CI (Continous Integrations) /CD (Continous Delivery)
+
+
+AWS CodePipeline == Source >> Build >> Test >> Staging >> Production
+
+CODEDEPLOY
+Continous Integrations = Gerar artefato executável 
+
+
+Conceito de mínimo previlégio 
+
+O que são Parameters no cloudFormaition
+
