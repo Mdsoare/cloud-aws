@@ -1,8 +1,8 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+     <img align="center" width="60px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span>Bootcamp Cloud AWS</span>
-     <img align="center" width="50px" src="https://hermes.dio.me/tracks/af22d4a0-463f-48c5-a70c-4961d5e618d0.png">	
+     <img align="center" width="100px" src="https://hermes.dio.me/tracks/af22d4a0-463f-48c5-a70c-4961d5e618d0.png">	
 </h1>
 
 Repositório criado para fins educativos, com a disponibilização de materiais de apoio do **Bootcamp Cloud AWS** da [Digital Innovation One](https://www.dio.me/).
